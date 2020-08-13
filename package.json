@@ -4,6 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "ts-node test/smoke.ts",
     "doc": "typedoc --out docs --plugin typedoc-plugin-markdown src"
   },
