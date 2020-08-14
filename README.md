@@ -36,3 +36,17 @@ watcher.onChange((change) => console.log(change))
 ```
 
 完整代码 | full code refer [`test/smoke.ts`](./test/smoke.ts)
+
+## 示例代码 | example code
+
+watcher 配合 sse 做的实时同步显示
+
+```
+cd examples/basic
+npm i
+npm run dev
+```
+
+![screenshot](./screenshot.gif)
+
+具体代码查看 [examples/basic](./examples/basic)
