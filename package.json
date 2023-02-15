@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/postor/mongodb-change-watcher#readme",
   "dependencies": {
-    "mongodb": "^3.6.0"
+    "mongodb": "^4.12.1"
   },
   "devDependencies": {
     "@types/mongodb": "^3.5.25",
